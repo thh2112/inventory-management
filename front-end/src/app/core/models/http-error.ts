@@ -1,0 +1,5 @@
+export enum HttpCode {
+  NOT_ACCEPTABLE = 406,
+  PAYMENT_REQUIRED = 402,
+  UNAUTHORIZED = 401,
+}
